@@ -18,10 +18,10 @@ export default function () {
         </p>
 
         <p className="text-lg leading-relaxed mb-6 text-gray-800 tracking-wide">
-          Me encanta diseñar y construir proyectos <i>❤️made with love ❤️</i>,
-          sin limitarme a una sola forma de hacer las cosas. Para mí, la
-          tecnología es un lienzo en blanco donde puedo dar vida a ideas frescas
-          y hacer que todo cobre un poquito de magia .✨
+          Me encanta diseñar y construir proyectos <i>made with love❤️</i>, sin
+          limitarme a una sola forma de hacer las cosas. Para mí, la tecnología
+          es un lienzo en blanco donde puedo dar vida a ideas frescas y hacer
+          que todo cobre un poquito de magia 🎩🐇.
         </p>
 
         <div className="text-center mt-8 text-lg font-semibold text-gray-900 tracking-wide">

@@ -9,7 +9,7 @@ export default function VideoModal() {
       <button
         onClick={() => setIsOpen(true)}
         className="text-sky-600 font-semibold hover:underline">
-        👉 Ver demo
+        Ver video
       </button>
 
       {/* Modal */}

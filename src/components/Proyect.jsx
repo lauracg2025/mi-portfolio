@@ -11,7 +11,7 @@ export default function Proyect() {
         <div className="grid md:grid-cols-2 gap-8">
           {/* Proyecto 1 */}
 
-          <div className="bg-slate-50 border border-slate-200 rounded-3xl overflow-hidden shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+          <div className=" bg-slate-50 border border-slate-200 rounded-3xl overflow-hidden shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
             <img
               src={cinexinImg}
               alt="App CINEXIN"
@@ -31,14 +31,15 @@ export default function Proyect() {
                 cómoda desde cualquier dispositivo. Está desplegada en{" "}
                 <strong>Vercel</strong>.
               </p>
-
-              <a
-                href="https://movies-app-sigma-kohl.vercel.app/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block text-sky-600 font-semibold hover:underline">
-                👉 Ver proyecto
-              </a>
+              <div className="mt-28">
+                <a
+                  href="https://movies-app-sigma-kohl.vercel.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block text-sky-600 font-semibold hover:underline">
+                  Ver proyecto
+                </a>
+              </div>
             </div>
           </div>
 
@@ -77,7 +78,7 @@ export default function Proyect() {
                   rel="noopener noreferrer"
                   className="inline-block text-sky-600 font-semibold hover:underline"
                   aria-label="Ver proyecto GESTOR DE CITAS en una nueva pestaña">
-                  👉 Ver proyecto
+                  Ver proyecto
                 </a>
                 <VideoModal />
               </div>
