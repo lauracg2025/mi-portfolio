@@ -36,7 +36,7 @@ export default function Proyect() {
                   href="https://movies-app-sigma-kohl.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block text-sky-600 font-semibold hover:underline">
+                  className="inline-block text-sky-600 font-semibold hover:underline tracking-wide">
                   Ver proyecto
                 </a>
               </div>
@@ -76,7 +76,7 @@ export default function Proyect() {
                   href="https://citas-app-phi.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-block text-sky-600 font-semibold hover:underline"
+                  className="inline-block text-sky-600 font-semibold hover:underline tracking-wide"
                   aria-label="Ver proyecto GESTOR DE CITAS en una nueva pestaña">
                   Ver proyecto
                 </a>
